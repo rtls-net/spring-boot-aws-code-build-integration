@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/spring-boot-aws-code-build.jar
+    - '**/*'
   discard-paths: yes
