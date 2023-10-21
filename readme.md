@@ -4,6 +4,8 @@
 
 
 
-###  Beanstalk createion steps
+###  Beanstalk creation steps
+
+ - Click on create Environment 
 
    
