@@ -6,6 +6,6 @@
 
 ###  Beanstalk creation steps
 
- - Click on create Environment 
+      - Click on create Environment 
 
    
